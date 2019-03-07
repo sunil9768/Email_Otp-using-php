@@ -8,4 +8,5 @@
  
  **We can install Django in Ubuntu 18.04**
  
- **1. Install Django Web Framework In Ubuntu using official repositories**
+ **1. Install Django Web Framework In Ubuntu in terminal**
+   >$ sudo apt-get install python-django
