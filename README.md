@@ -124,3 +124,12 @@
   
   
   >> pip3 install -r requirements.txt
+  
+  
+  **How to run django in terminal**
+  
+  **We will start project**
+  
+  
+  
+  <img src="https://github.com/sunil9768/Simple-website-using-django2/blob/master/Screenshot%20from%202019-03-07%2012-58-33.png" height=500 weight=500 />
