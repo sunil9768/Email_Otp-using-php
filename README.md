@@ -133,3 +133,11 @@
   
   
   <img src="https://github.com/sunil9768/Simple-website-using-django2/blob/master/Screenshot%20from%202019-03-07%2012-58-33.png" height=200 weight=200 />
+  
+  
+  **we will work on pycham. Install pycham in terminal**
+  
+  
+  
+  
+  [pycham](https://itsfoss.com/install-pycharm-ubuntu/)
