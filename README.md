@@ -115,3 +115,12 @@
   **Sample Output:**
   
   >2.1.7
+  
+  
+  
+  **using this command  for insatll django**
+  
+  
+  
+  
+  >> pip3 install -r requirements.txt
