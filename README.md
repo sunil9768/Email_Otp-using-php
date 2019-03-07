@@ -10,6 +10,15 @@
  
  **1. Install Django Web Framework In Ubuntu in terminal**
    >$ sudo apt-get install python-django
+   
+   
+   
+   
+   
+   
+   
+   
+   
    **We can see:**
    >Reading package lists... Done
    >Building dependency tree 
