@@ -163,5 +163,5 @@
  **Topics that will be covered in this tutorial:**
  
  
- Lesson 1(Building an E-Commerce Shopping Cart Using Django 2.0 and Python 3.6 )[https://blog.muva.tech/lesson-1-building-e-commerce-shopping-cart-using-django-2-0-python-3-6/]
+ Lesson 1[Building an E-Commerce Shopping Cart Using Django 2.0 and Python 3.6 ](https://blog.muva.tech/lesson-1-building-e-commerce-shopping-cart-using-django-2-0-python-3-6/)
  
